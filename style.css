@@ -1,0 +1,14 @@
+#highlight{
+     background-color: deeppink;
+    color: aliceblue;
+}
+tr{
+    font-weight: bold;
+}
+#danger{
+    background-color: firebrick;
+    color: aliceblue;
+}
+body{
+    margin: 10%;
+}
